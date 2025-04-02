@@ -1,0 +1,20 @@
+{
+  "Myinfo": [
+    {
+      "id": 1,
+      "name": "นายวุฒิภัทร ศรีสอาด",
+      "student_id": "6630250460",
+      "branch": "คอมพิวเตอร์",
+      "school": "โรงเรียนทวีธาภิเศก",
+      "image": "/path/to/image.jpg"
+    }
+  ],
+  "history": [
+    {
+      "course_id": "CS101",
+      "course_name": "Introduction to Computer Science",
+      "credits": 3,
+      "grade": "A"
+    }
+  ]
+}
