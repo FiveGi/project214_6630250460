@@ -1,20 +1,34 @@
 {
-  "Myinfo": [
+  "student": {
+    "name": "นายวุฒิภัทร ศรีสอาด",
+    "student_id": "6630250460",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "school": "โรงเรียนชลบุรี \"สุขบท\""
+  },
+  "courses": [
     {
-      "id": 1,
-      "name": "นายวุฒิภัทร ศรีสอาด",
-      "student_id": "6630250460",
-      "branch": "คอมพิวเตอร์",
-      "school": "โรงเรียนทวีธาภิเศก",
-      "image": "/path/to/image.jpg"
-    }
-  ],
-  "history": [
-    {
-      "course_id": "CS101",
-      "course_name": "Introduction to Computer Science",
-      "credits": 3,
+      "id": "3",
+      "code": "01999012",
+      "name": "Health for Life",
+      "name_th": "สุขภาพเพื่อชีวิต",
+      "credit": 3,
       "grade": "A"
+    },
+    {
+      "id": "5",
+      "code": "03654111",
+      "name": "Aesthetics of Sport",
+      "name_th": "สุนทรียศาสตร์ทางการกีฬา",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "6",
+      "code": "01418131",
+      "name": "Statistical Programming",
+      "name_th": "การโปรแกรมทางสถิติ",
+      "credit": 3,
+      "grade": "B"
     }
   ]
 }
